@@ -1,8 +1,3 @@
 # receipt-search-backend-render
 
-- あああ
-- iiiii
-
-```
-sssss
-```
+- レセプト電算コードマスター検索アプリです
